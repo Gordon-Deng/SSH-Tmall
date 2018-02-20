@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6301113-4deb-4bd1-b1f4-269462aba746" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b6301113-4deb-4bd1-b1f4-269462aba746" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,37 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="orderitem" pinned="false" current-in-tab="false">
-        <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.orderitem">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="propertyvalue" pinned="false" current-in-tab="false">
-        <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.propertyvalue">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user" pinned="false" current-in-tab="false">
-        <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.user">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -145,25 +116,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SSH-Tmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSH-Tmall" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_ssh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_ssh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SSH-Tmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSH-Tmall" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_ssh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_ssh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,11 +255,12 @@
       <workItem from="1518958815047" duration="212000" />
       <workItem from="1518960389509" duration="3520000" />
       <workItem from="1519133975600" duration="336000" />
+      <workItem from="1519140377835" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4068000" />
+    <option name="totallyTimeSpent" value="4075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -345,48 +317,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.orderitem">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.propertyvalue">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.propertyvalue">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.orderitem">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.user" />
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.orderitem" />
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.propertyvalue" />
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.user" />
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.propertyvalue" />
+    <entry file="das://table:/fa782ef7/f1b3ebb3-234b-4f28-916e-994cf78c3895/tmall.orderitem" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f1b3ebb3-234b-4f28-916e-994cf78c3895/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
