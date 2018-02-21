@@ -1,0 +1,1 @@
+<%=Class.forName("java.lang.String")%>

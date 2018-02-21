@@ -1,0 +1,3 @@
+/*C756*/SET SCHEMA PUBLIC
+ALTER TABLE product  ALTER COLUMN orignalprice RENAME TO originalprice\u000a
+DISCONNECT
